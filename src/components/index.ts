@@ -1,7 +1,7 @@
-import BigSideBar from "./sideBar&Navbar/BigSideBar";
-import SmallSideBar from "./sideBar&Navbar/SmallSideBar";
+import BigSidebar from "./sideBar&Navbar/BigSidebar";
+import SmallSidebar from "./sideBar&Navbar/SmallSidebar";
 import FormRow from "./Form/FormRow";
 import Logo from "./Logo";
 import Navbar from "./sideBar&Navbar/Navbar";
 
-export { BigSideBar, SmallSideBar, FormRow, Logo, Navbar };
+export { BigSidebar, SmallSidebar, FormRow, Logo, Navbar };
