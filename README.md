@@ -13,7 +13,7 @@ O **Jobster** é um projeto desenvolvido como parte do curso de ReactJS, com o o
 - *Interface Gráfica Intuitiva*: Uma interface de usuário amigável permite aos usuários visualizar facilmente seus registros de trabalho mais recentes e importantes.
 
 
+Deploy: https://jobster-ts.netlify.app/
 
 
-
-
+![image](https://github.com/GuilhermeEstevan/Jobster_TS/assets/115093310/ecaa7abb-bbad-46d2-9236-8144fe8752e0)
