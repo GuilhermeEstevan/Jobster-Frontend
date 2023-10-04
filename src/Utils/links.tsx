@@ -12,13 +12,13 @@ const links = [
   },
   {
     id: 2,
-    text: 'Todas Candidaturas',
+    text: 'Todos Jobs',
     path: 'allJobs',
     icon: <MdQueryStats />,
   },
   {
     id: 3,
-    text: 'Adcionar Candidatura',
+    text: 'Adcionar Jobs',
     path: 'addJob',
     icon: <FaWpforms />,
   },
