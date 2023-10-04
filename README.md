@@ -1,27 +1,19 @@
-# React + TypeScript + Vite
+# Jobster - Plataforma de Gerenciamento de Trabalhos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição do Projeto
 
-Currently, two official plugins are available:
+O **Jobster** é um projeto desenvolvido como parte do curso de ReactJS, com o objetivo de criar uma plataforma intuitiva e eficiente para o gerenciamento de trabalhos. A aplicação permite aos usuários registrar detalhes relevantes sobre oportunidades de emprego, incluindo informações sobre a empresa, a posição e o status.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Funcionalidades Principais
 
-## Expanding the ESLint configuration
+- *Cadastro de Trabalhos*: Os usuários podem adicionar novos trabalhos à plataforma, fornecendo informações detalhadas, como nome da empresa, posição e status.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- *Filtragem e Pesquisa*: A aplicação oferece recursos de filtragem e pesquisa avançados para ajudar os usuários a encontrar rapidamente trabalhos específicos com base em vários critérios.
 
-- Configure the top-level `parserOptions` property like this:
+- *Interface Gráfica Intuitiva*: Uma interface de usuário amigável permite aos usuários visualizar facilmente seus registros de trabalho mais recentes e importantes.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+
+
+![image](https://github.com/GuilhermeEstevan/Jobster/assets/115093310/b490a8c4-c307-4888-a37d-32bf9837ebb6)
