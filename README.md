@@ -16,4 +16,4 @@ O **Jobster** é um projeto desenvolvido como parte do curso de ReactJS, com o o
 
 
 
-![image](https://github.com/GuilhermeEstevan/Jobster/assets/115093310/b490a8c4-c307-4888-a37d-32bf9837ebb6)
+
